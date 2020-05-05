@@ -9,6 +9,8 @@ import _color from "./assets/images/bg/background.jpeg";
 import "./assets/css/bootstrap.css";
 
 function App() {
+
+  
   const dispatch = useDispatch();
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
