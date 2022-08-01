@@ -27,7 +27,7 @@ contract GodToken is ERC721, Ownable {
   God[] public Gods;
 
   event NewGod(address indexed owner, uint256 id, uint256 dna);
-
+event OldGod(address indexed owner, uint256 id, uint256 dna);
   function _createRandomNum(uint256 _mod) internal view returns (uint256) {
     uint256 randomNum = uint256(
       keccak256(abi.encodePacked(block.timestamp, msg.sender))
