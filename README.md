@@ -1,6 +1,6 @@
 # Welcome to NFT God Wars 2.0
-
-##### https://god-wars.vercel.app
+#### URL
+You can play : https://god-wars.vercel.app
 
 ## A smart contract based trading game powered by blockchain.
 - It is NFT based card game where users will be able to generate random NFTs with various details and stats like attack, defense and stamina generated randomly. The users can level up their Cards and also engage in battle with other users.
@@ -30,4 +30,4 @@
 
 Built by 
 @fabianferno
-@surbhit14
+@unudeveloper
