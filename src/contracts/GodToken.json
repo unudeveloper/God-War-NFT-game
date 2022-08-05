@@ -2,7 +2,7 @@
 	{
 		"inputs": [
 			{
-				"internalType": "string",
+				"internalType": "string",  
 				"name": "_name",
 				"type": "string"
 			},
@@ -15,7 +15,7 @@
 				"internalType": "string",
 				"name": "_name",
 				"type": "string"
-			},
+			}
 		],
 		"stateMutability": "nonpayable",
 		"type": "constructor"
