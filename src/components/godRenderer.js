@@ -9,6 +9,19 @@ const GodRenderer = ({ god = null, size = 200, style }) => {
   if (!god) {
     return null;
   }
+  if (!god) {
+    return null;
+  }
+  if (!god) {
+    return null;
+  }
+  if (!god) {
+    return null;
+  }
+  if (!god) {
+    return null;
+  }
+  
   let rarity = _r1;
 
   if (god.rarity >= 80) {
